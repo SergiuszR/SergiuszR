@@ -9,7 +9,7 @@ My name is Sergiusz Rozycki and I'm a frontend developer and designer. :computer
 - Vanilla JavaScript :white_check_mark:
 - RWD - Knowledge of Responsive Web Design :white_check_mark:
 - Parcel ✅
-- Gulp
+- Gulp ✅
 - Adobe Photoshop :white_check_mark: 
 - Adobe XD :white_check_mark:
 - Adobe Illustrator :white_check_mark: 
