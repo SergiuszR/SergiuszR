@@ -21,7 +21,7 @@
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Svelte" width="30px" src="https://raw.githubusercontent.com/sveltejs/svelte/29052aba7d0b78316d3a52aef1d7ddd54fe6ca84/site/static/images/svelte-android-chrome-512.png" />
-<img align="left" alt="Svelte" width="8px" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" />
+<img align="left" alt="Svelte" width="16px" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" />
 <img align="left" alt="Git" width="30px" src="https://user-images.githubusercontent.com/7927596/68089633-dfed3800-fe38-11e9-893e-4efd59306bdd.png" />
 
 <img align="left" alt="npm" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
