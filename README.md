@@ -7,10 +7,11 @@
 
 ### I'm a frontend developer & web designer
 
- - :telescope:&nbsp;  Currently I'm learning React, Svelte, in-depth JavaScript, Node.js, Figma and... Python <br />
- - :raised_hand:&nbsp; Looking for hire as a **Junior Frontend Developer** <br />
- - :date:&nbsp;   2021 Goals? Learn, learn and maybe some learning... <br />
- - :8ball:&nbsp;  Dog lover :dog:
+ - :telescope:&nbsp;  Currently I'm learning React, Svelte, in-depth JavaScript with jQuery, Node.js, Figma, Webflow <br />
+ - :raised_hand:&nbsp; Looking for hire as a **Junior Frontend Developer** or **Webflow Developer** <br />
+ - :date:&nbsp;   2022 Goals? Learn, learn and maybe some learning... <br />
+ - :mechanical_arm:  Dog lover :dog:
+ - :green_book: Webflow, Weblfow and Webflow...
 
 ### :memo: Languages and Tools:
 
