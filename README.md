@@ -2,7 +2,7 @@
 
 Frontend Developer bridging modern code with visual and headless workflows. I specialize in building high-performance websites using **Webflow** and **Astro**, crafting rich UI animations, and implementing robust third-party integrations.
 
-[![Portfolio Status](https://img.shields.io/badge/portfolio-work%20in%20progress-yellow?style=flat-square&logo=visualstudiocode)](https://github.com/rozyckisergiusz)
+[![Portfolio Status](https://img.shields.io/badge/portfolio-work%20in%20progress-yellow?style=flat-square&logo=visualstudiocode)](https://github.com/SergiuszR)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rozyckisergiusz)
 
 ---
