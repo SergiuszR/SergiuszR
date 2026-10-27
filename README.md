@@ -4,9 +4,9 @@ Front-end & Webflow developer. I build fast websites your team can manage on its
 
 I've worked on projects for Shoper, Tidio and the Leroy Merlin Foundation, and I work with Zu Agency and Finsweet on an ongoing basis.
 
-[![Portfolio](https://img.shields.io/badge/portfolio-sergiuszrozycki.com-f4b8c9?style=flat-square&labelColor=141414)](https://sergiuszrozycki.com/en/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sergiuszrozycki.com-f4b8c9?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg%3D%3D)](https://sergiuszrozycki.com/en/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rozyckisergiusz)
-[![Email](https://img.shields.io/badge/email-hello%40sergiuszrozycki.com-141414?style=flat-square)](mailto:hello@sergiuszrozycki.com)
+[![Email](https://img.shields.io/badge/Email-hello%40sergiuszrozycki.com-3a2bb8?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHdpZHRoPSIyMCIgaGVpZ2h0PSIxNiIgeD0iMiIgeT0iNCIgcng9IjIiLz48cGF0aCBkPSJtMjIgNy04Ljk3IDUuN2ExLjk0IDEuOTQgMCAwIDEtMi4wNiAwTDIgNyIvPjwvc3ZnPg%3D%3D)](mailto:hello@sergiuszrozycki.com)
 
 ---
 
