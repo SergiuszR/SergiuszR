@@ -24,8 +24,7 @@ I've worked on projects for Shoper, Tidio and the Leroy Merlin Foundation, and I
 ## 🧰 Tools I Build
 
 - **[Audyt](https://sergiuszrozycki.com/en/projects/audyt/)** checks the speed, WCAG 2.2 AA accessibility, SEO and UX/UI of a site, with a report online and as a PDF.
-- **[Linkrot](https://sergiuszrozycki.com/en/projects/linkrot/)** finds the broken links before Google does: every page in the sitemap and every link in the content.
-- **[figlift](https://sergiuszrozycki.com/en/projects/figlift/)** turns a link to a Figma file into an Astro site with its content in Sanity.
+- **[figlift](https://sergiuszrozycki.com/en/projects/figlift/)** turns a Webflow project or link to a Figma file into an Astro site with its content in Sanity.
 
 ---
 
